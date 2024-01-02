@@ -1,0 +1,22 @@
+{
+  "name": "react-hooks-extended",
+  "version": "1.0.0",
+  "description": "More extensions based on didact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeshihaoran/react-hooks-extended.git"
+  },
+  "keywords": [
+    "react",
+  ],
+  "author": "codeshihaoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeshihaoran/react-hooks-extended/issues"
+  },
+  "homepage": "https://github.com/codeshihaoran/react-hooks-extended#readme"
+}
